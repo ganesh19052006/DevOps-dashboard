@@ -67,8 +67,8 @@ Code → GitHub → Jenkins CI Pipeline → Docker Build → Push to Docker Hub 
 ## 🚀 Getting Started
 
 ## 🖥️ Local Setup (Using Docker Compose)
-git clone https://github.com/Kannika6513/Building-a-cloud--agnostic-DevOps-dashboard-for-real-time-deployment-tracking.git
-cd Building-a-cloud--agnostic-DevOps-dashboard-for-real-time-deployment-tracking
+git clone https://github.com/ganesh19052006/DevOps-dashboard.git
+cd DevOps-dashboard
 docker-compose up --build
 
 ## ⚙️ CI/CD Pipeline Stages
